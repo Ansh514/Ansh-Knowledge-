@@ -214,4 +214,26 @@ l{
   color: green;
 
 }
+.logo{
+
+  position: fixed;
+
+  display: block;
+
+  margin-top:355px ;
+
+  margin-left: 305px;
+
+  background-color: white;
+
+  padding: 0px;
+
+  height:50px
+
+  border: none;
+
+  opacity:0.5;
+
+}
+
 
